@@ -15,7 +15,8 @@ public class JKTVR19MyArray {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        App app = new 
+        App app = new App();
+        app.run();
         // TODO code application logic here
     }
     
